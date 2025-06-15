@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Software+Engineering+Student;🤖+AI%2FML+Enthusiast+%26+Researcher;💻+Full-Stack+Developer;👁️+Computer+Vision+Explorer;📊+Data+Science+Practitioner;✍️+Technical+Writer+%26+Blogger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Software+Engineering+Student;🤖+AI%2FML+Enthusiast+%26+Researcher;💻+Full-Stack+Developer;👁️+Computer+Vision+Explorer;📊+Data+Scientist+Practitioner;✍️+Technical+Writer+%26+Blogger)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,7 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 - 👯 **Collaborating on:** Open source AI/ML projects and innovative tech solutions
 - 🤔 **Exploring:** Quantum Computing, Edge AI, and Blockchain technologies
 - 💬 **Ask me about:** Python, JavaScript, AI/ML, Computer Vision, Data Science, or Tech Career Advice
-- 📫 **Reach me:** muhammad2004sarim@gmail.com
+- 📫 **Reach me:** [Muhammad Sarim](https://muhammadsarim.vercel.app/)
 - ⚡ **Fun fact:** I can debug code faster than I can solve a Rubik's cube! 🧩
 
 ### 💭 Daily Inspiration
