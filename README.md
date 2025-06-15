@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Software+Engineering+Student;🤖+AI%2FML+Enthusiast+%26+Researcher;💻+Full-Stack+Developer;👁️+Computer+Vision+Explorer;📊+Data+Scientist+Practitioner;✍️+Technical+Writer+%26+Blogger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Software+Engineering+Student;🤖+AI%2FML+Enthusiast+%26+Researcher;💻+Full-Stack+Developer;👁️+Computer+Vision+Explorer;📊+Data+Scientist+Practitioner;✍️+Technical+Writer+%26+Blogger)](https://git.io/typing-svg)
 
 </div>
 
@@ -139,7 +139,7 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sarim&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Sarim&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Sarim&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <div align="center">
@@ -156,24 +156,11 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 </div>
 
 ### 📈 Contribution Metrics
-<div align="center"> <img src="https://raw.githubusercontent.com/M-Sarim/M-Sarim/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"> </div>
-
-### ⚡ Real-time Coding Activity
 <div align="center">
-
-[![Sarim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSarim&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@MSarim)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Sarim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
-
-<div align="center"> <a href="https://open.spotify.com/user/msarim"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=msarim&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" /> </a> </div>
 
 ## 📝 Latest Blog Posts & Technical Writing
-
-<div align="center">
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Muhammad.Sarim)
-
-</div>
 
 I regularly write technical articles on [Medium](https://medium.com/@Muhammad.Sarim) covering:
 - 🤖 **AI/ML Algorithms & Implementations** - Deep dives into neural networks and machine learning
@@ -288,7 +275,5 @@ I'm always open to discussing:
 *Ready to build something amazing together? Let's connect and make it happen!* 🚀
 
 **Muhammad Sarim** | Software Engineering Student | AI/ML Enthusiast | Full-Stack Developer
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
