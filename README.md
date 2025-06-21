@@ -73,7 +73,6 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
@@ -122,9 +121,9 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 - **[Sales Data Analysis](https://github.com/M-Sarim/sales-data-analysis)** - Comprehensive EDA with statistical insights and visualizations
 
 ### 💻 Full-Stack Applications
+- **[Aurora Voyages](https://github.com/M-Sarim/AuroraVoyages.git)** - Responsive travel & tourism website with modern UI/UX design
 - **[E-commerce Store](https://github.com/M-Sarim/E-commerce-Store)** - Complete e-commerce solution with C# and Oracle Database
 - **[Multilingual Dictionary](https://github.com/M-Sarim/multilingual-dictionary)** - Java Swing application with MySQL backend
-- **[IHS Clothing Website](https://github.com/M-Sarim/IHS-Clothing-Website)** - Responsive website with modern UI/UX design
 
 ### 🔧 Specialized Tools
 - **[Research Papers Web Scraper](https://github.com/M-Sarim/research-papers-scraper)** - Automated data collection tool using BeautifulSoup and Selenium
@@ -196,11 +195,11 @@ I regularly write technical articles on [Medium](https://medium.com/@Muhammad.Sa
 graph TD
     Start([🎓 Current: BS Software Engineering])
     
-    Start --> A1[📘 2024: Master Advanced AI/ML]
+    Start --> A1[📘 2025: Master Advanced AI/ML]
     A1 --> A2[🤖 Build End-to-End AI Projects]
     A1 --> A3[📚 Deep Dive: NLP, Transformers, LLMs]
     
-    A2 --> B1[💼 2025: Industry Internships]
+    A2 --> B1[💼 2026: Industry Internships]
     B1 --> B2[🏢 Backend & AI-focused Roles]
     B2 --> B3[🛠 Real-World Product Development]
     
@@ -208,7 +207,7 @@ graph TD
     C1 --> C2[🤝 Collaborate on High-Impact Repos]
     C2 --> C3[🌟 Gain Community Recognition]
     
-    A3 --> D1[✍️ 2025: Technical Writing & Blogs]
+    A3 --> D1[✍️ 2026: Technical Writing & Blogs]
     D1 --> D2[📝 Write on Medium & Dev.to]
     D2 --> D3[🎤 Apply for Tech Talks & Podcasts]
     
