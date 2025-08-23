@@ -149,10 +149,18 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Sarim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Sarim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain"/>
+
 </div>
+
+
+
 
 ### 📈 Contribution Metrics
 <div align="center">
