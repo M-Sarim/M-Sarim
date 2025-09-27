@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Software+Engineer;🤖+AI%2FML+Enthusiast+%26+Researcher;💻+Full-Stack+Developer;👁️+Computer+Vision+Explorer;📊+Data+Scientist+Practitioner;✍️+Technical+Writer+%26+Blogger)](https://git.io/typing-svg)
 
 </div>
@@ -159,9 +159,6 @@ I'm a **passionate Software Engineering student** at [**FAST NUCES**](https://ww
 
 </div>
 
-
-
-
 ### 📈 Contribution Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Sarim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -204,83 +201,33 @@ graph TD
     Start([🎓 Current: BS Software Engineering])
     
     Start --> A1[📘 2025: Master Advanced AI/ML]
+    Start --> G1[☁️ Learn Cloud Technologies]
     A1 --> A2[🤖 Build End-to-End AI Projects]
-    A1 --> A3[📚 Deep Dive: NLP, Transformers, LLMs]
+    G1 --> G2[📦 DevOps Mastery & Automation]
+
+    A2 --> B1[💼 2025: Industry Internships]
+    G2 --> G3[🚀 Deploy Scalable AI Solutions on Cloud]
     
-    A2 --> B1[💼 2026: Industry Internships]
-    B1 --> B2[🏢 Backend & AI-focused Roles]
+    B1 --> B2[🏢 Backend, AI, & Cloud-Focused Roles]
+    G3 --> G4[🔧 Build and Manage Cloud Infrastructure for AI]
+
     B2 --> B3[🛠 Real-World Product Development]
+    G4 --> H1[💻 Transition into AI Cloud Engineering Roles]
     
-    B1 --> C1[🌍 Open Source Contributions]
+    B3 --> C1[🌍 Open Source Contributions]
+    H1 --> H2[🌍 Contribute to Global AI & Cloud Projects]
     C1 --> C2[🤝 Collaborate on High-Impact Repos]
+    H2 --> H3[⚙️ Focus on AI-Powered Cloud-native & Serverless Architectures]
     C2 --> C3[🌟 Gain Community Recognition]
     
-    A3 --> D1[✍️ 2026: Technical Writing & Blogs]
-    D1 --> D2[📝 Write on Medium & Dev.to]
+    B1 --> D1[✍️ 2025: Technical Writing & Blogs]
+    D1 --> D2[📝 Write on Medium]
     D2 --> D3[🎤 Apply for Tech Talks & Podcasts]
     
     B3 --> E1[🎓 2026: Graduation]
     E1 --> E2[🚀 Full-time Job at Leading Tech Company]
-    E2 --> E3[🔍 Focus on AI Research & Innovation]
+    E2 --> E3[🔍 Focus on AI Research, Cloud & Innovation]
     
     E3 --> F1[🧠 Long-Term: Build Research Lab or Startup]
-    F1 --> F2[🌐 Solve Global Problems using AI]
+    F1 --> F2[🌐 Solve Global Problems using AI & Cloud]
 
-```
-
-## 💡 Fun Facts & Interests
-
-- 🧩 **Problem Solver:** Can debug code faster than solving a Rubik's cube
-- 🎮 **Gaming Enthusiast:** Strategy games help improve algorithmic thinking
-- 📚 **Continuous Learner:** Always exploring new technologies and frameworks
-- 🌍 **Global Perspective:** Interested in how technology impacts different cultures
-- 🎨 **Creative Side:** Enjoy UI/UX design and creating visually appealing interfaces
-- ☕ **Coffee Lover:** Best code is written with a perfect cup of coffee
-- 🏃‍♂️ **Fitness Enthusiast:** Believe in maintaining work-life balance
-
-## 📊 Weekly Development Breakdown
-
-```text
-Python       ████████████████████████▓░░░░  85%
-JavaScript   ████████████████████▓░░░░░░░░  70%
-AI/ML        ███████████████████▓░░░░░░░░░  65%
-Web Dev      ██████████████████▓░░░░░░░░░░  60%
-Data Science █████████████████▓░░░░░░░░░░░  55%
-DevOps       ████████████▓░░░░░░░░░░░░░░░░  40%
-```
-
-## 🤝 Open Source Contributions
-
-<div align="center">
-
-[![Pull Requests](https://img.shields.io/badge/Pull%20Requests-15+-brightgreen?style=for-the-badge)](https://github.com/M-Sarim)
-[![Issues Solved](https://img.shields.io/badge/Issues%20Solved-25+-blue?style=for-the-badge)](https://github.com/M-Sarim)
-[![Repositories](https://img.shields.io/badge/Public%20Repos-20+-orange?style=for-the-badge)](https://github.com/M-Sarim?tab=repositories)
-
-</div>
-
-### 🌍 Contributing to the Community
-- **Open Source Projects:** Regular contributor to AI/ML and web development projects
-- **Code Reviews:** Helping fellow developers improve their code quality
-- **Documentation:** Writing comprehensive documentation for complex projects
-- **Mentoring:** Guiding junior developers and students in their coding journey
-
-### 💼 Professional Opportunities
-I'm always open to discussing:
-- 🚀 **Internship Opportunities** in AI/ML or Full-Stack Development
-- 🤝 **Collaboration Projects** on innovative tech solutions
-- 📝 **Technical Writing** partnerships and guest posts
-- 🎤 **Speaking Engagements** at tech events and conferences
-- 👥 **Mentoring Programs** for aspiring developers
-
----
-
-### 🎉 Thank You for Visiting!
-
-### 💫 "Engineering intelligent solutions for a smarter digital future"
-
-*Ready to build something amazing together? Let's connect and make it happen!* 🚀
-
-**Muhammad Sarim** | Software Engineering Student | AI/ML Enthusiast | Full-Stack Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
